@@ -1,0 +1,42 @@
+nav { font-family: Roboto ; 
+    display: inline ;
+ }
+.liste {font-family:Georgia;
+         font-weight: bold ;
+         }
+.block { font-family: Arial black;
+         }         
+header nav ul{display:flex;
+              gap: 25px;}
+header nav ul li{ list-style: none;}      
+header nav ul li a {text-decoration:none ;
+                    color:black}       
+table { border-width:2px;
+    border-style: solid;
+    border-color: crimson;
+    width: 50%;
+    background-color: red; 
+font-family: Lucida sans unicode;}
+th {border-style:solid;
+font-size: xx-large;
+text-align: justify;}
+td {border-width: 1px;
+border-style: solid;
+width: 50%;}
+.block1 { color: green;}
+#titreform {color:blueviolet;}
+form { font-family:frankin gothic medium;
+    font-size: 15px;
+font-weight: bold;}
+label {border-style:none;}
+input {padding-top:10px;
+    border-style:double;
+    border-color: yellowgreen;
+    border-radius:15px;
+    width: 200px;
+    display: block;}
+button {font-family:Arial narrow;
+font-size:large;
+border-width:2px;
+border-color:blue;
+padding:3px;}
